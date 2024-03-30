@@ -1,0 +1,2 @@
+E:\University\Advanced Computer Games Developement\UnityOpenCVlink\x64\Debug\UnityOpenCVlink.dll
+D:\UnityHUB\Projects\Attatched OpenCV\UnityOpenCVlink\x64\Debug\UnityOpenCVlink.exe
